@@ -1,0 +1,2 @@
+# dotfiles
+spectrwm config files
