@@ -4,7 +4,7 @@ URxvt.underlineColor:   yellow
 URxvt.font:             xft:TerminessTTFNerdFont:pixelsize=18:antialias=true
 URxvt.boldFont:         xft:TerminessTTFNerdFont:bold:pixelsize=18:antialias=true
 URxvt.scrollBar: false
-URxvt.title:            ArchWiki Example
+! URxvt.title:            ArchWiki Example
 URxvt.perl-ext-common:  default
 ! Dracula color scheme
 URxvt.foreground: #F8F8F2
