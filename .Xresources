@@ -36,3 +36,8 @@ Xft.hintstyle: hintslight
 Xft.rgba: rgb
 ! Xft.rgba: subpixel
 Xft.lcdfilter: lcddefault
+
+
+!!!
+
+Sxiv.background: #282A36
