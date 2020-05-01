@@ -18,3 +18,4 @@
 *.color7:     #BFBFBF
 *.color15:    #E6E6E6
 xterm*font:-*-Terminus-bold-*-*-*-18-*-*-*-*-*-*-*
+XTerm*selectToClipboard: true
