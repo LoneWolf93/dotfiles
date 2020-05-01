@@ -7,9 +7,8 @@ Since these files are all plain text, we can gather them together in a git repos
 You do have to pay atention to the file spectrwm.conf, to run spectrwm correctly you do have to install that programs like rofi, i3lock, rxvt, etc.
 If you don't install that programs spectrwm bar may not work correctly.
 
-```
-[nerd-fonts-terminus](https://aur.archlinux.org/packages/?O=0&K=nerd+terminus), [ant-dracula-theme](https://aur.archlinux.org/packages/ant-dracula-gtk-theme/)
-```
+[nerd-fonts-terminus](https://aur.archlinux.org/packages/?O=0&K=nerd+terminus), [ant-dracula-theme](https://aur.archlinux.org/packages/ant-dracula-gtk-theme/), [scrot](https://www.archlinux.org/packages/community/x86_64/scrot/), [ranger](https://www.archlinux.org/packages/community/any/ranger/), [sxiv](https://www.archlinux.org/packages/community/x86_64/sxiv/), [zathura](https://www.archlinux.org/packages/community/x86_64/zathura-pdf-mupdf/), [numix](https://aur.archlinux.org/packages/numix-gtk-theme/), [vtop](https://aur.archlinux.org/packages/vtop/), [nitrogen](https://www.archlinux.org/packages/extra/x86_64/nitrogen/), [rxvt-unicode](https://www.archlinux.org/packages/community/x86_64/rxvt-unicode/), [fish (optional)](https://www.archlinux.org/packages/community/x86_64/fish/), [rofi](https://www.archlinux.org/packages/community/x86_64/rofi/)
+
 
 # License
 The files and scripts in this repository are licensed under the MIT License, which is a very permissive license allowing you to use, modify, copy, distribute, sell, give away, etc. the software.  In other words, do what you want with it.  The  only requirement with the MIT License is that the license and copyright notice must be provided with the software.
