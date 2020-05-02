@@ -3,7 +3,7 @@ Dotfiles are plain text configuration files on Unix-y systems for things like ou
 
 Since these files are all plain text, we can gather them together in a git repository and use that to track the changes you make over time.
 
-# Important
+# Important information
 Some programs needs to be installed for the correct run of `~/.spectrwm.conf`. You can comment that lines if you want it.
 
 ### Example
