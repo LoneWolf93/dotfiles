@@ -16,8 +16,8 @@ The files and scripts in this repository are licensed under the MIT License, whi
 
 # Images
 
-![](previews/preview1.png)
+![Alt text](screenshots/Screenshot-02_05_2020_02_00_19.png "Screenshot 1")
 
-![](previews/preview2.png)
+![Alt text](screenshots/Screenshot-02_05_2020_02_04_00.png "Screenshot 2")
 
-![](previews/preview3.png)
+![Alt text](screenshots/Screenshot-02_05_2020_02_06_14.png "Screenshot 3")
