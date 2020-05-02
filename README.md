@@ -4,11 +4,33 @@ Dotfiles are plain text configuration files on Unix-y systems for things like ou
 Since these files are all plain text, we can gather them together in a git repository and use that to track the changes you make over time.
 
 # Required
-You do have to pay atention to the file spectrwm.conf, to run spectrwm correctly you do have to install that programs like rofi, i3lock, rxvt, etc.
-If you don't install that programs spectrwm bar may not work correctly.
+Some programs it need to be installed for the correct run of `~/.spectrwm.conf`. You can comment that lines if you want it.
 
+### Example
+```
+program[lock]		= i3lock
+
+program[term]		= urxvt
+
+program[menu]		= rofi -show drun -font 'Terminus Bold 11'
+```
 ### Applications installed
-[nerd-fonts-terminus](https://aur.archlinux.org/packages/?O=0&K=nerd+terminus), [ant-dracula-theme](https://aur.archlinux.org/packages/ant-dracula-theme-git/), [scrot](https://www.archlinux.org/packages/community/x86_64/scrot/), [ranger](https://www.archlinux.org/packages/community/any/ranger/), [sxiv](https://www.archlinux.org/packages/community/x86_64/sxiv/), [zathura](https://www.archlinux.org/packages/community/x86_64/zathura-pdf-mupdf/), [numix](https://aur.archlinux.org/packages/numix-gtk-theme/), [vtop](https://aur.archlinux.org/packages/vtop/), [nitrogen](https://www.archlinux.org/packages/extra/x86_64/nitrogen/), [rxvt-unicode](https://www.archlinux.org/packages/community/x86_64/rxvt-unicode/), [fish (optional)](https://www.archlinux.org/packages/community/x86_64/fish/), [rofi](https://www.archlinux.org/packages/community/x86_64/rofi/), [ufetch](https://aur.archlinux.org/packages/ufetch-git/), [omf](https://github.com/oh-my-fish/oh-my-fish), [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/), [xcursor-neutral](https://www.archlinux.org/packages/community/any/xcursor-neutral/)
+* [nerd-fonts-terminus](https://aur.archlinux.org/packages/?O=0&K=nerd+terminus)
+* [ant-dracula-theme](https://aur.archlinux.org/packages/ant-dracula-theme-git/)
+* [scrot](https://www.archlinux.org/packages/community/x86_64/scrot/)
+* [ranger](https://www.archlinux.org/packages/community/any/ranger/)
+* [sxiv](https://www.archlinux.org/packages/community/x86_64/sxiv/)
+* [zathura](https://www.archlinux.org/packages/community/x86_64/zathura-pdf-mupdf/)
+* [numix](https://aur.archlinux.org/packages/numix-gtk-theme/)
+* [vtop](https://aur.archlinux.org/packages/vtop/)
+* [nitrogen](https://www.archlinux.org/packages/extra/x86_64/nitrogen/)
+* [rxvt-unicode](https://www.archlinux.org/packages/community/x86_64/rxvt-unicode/)
+* [fish](https://www.archlinux.org/packages/community/x86_64/fish/)
+* [rofi](https://www.archlinux.org/packages/community/x86_64/rofi/)
+* [ufetch](https://aur.archlinux.org/packages/ufetch-git/)
+* [omf](https://github.com/oh-my-fish/oh-my-fish)
+* [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)
+* [xcursor-neutral](https://www.archlinux.org/packages/community/any/xcursor-neutral/)
 
 
 # License
@@ -16,8 +38,8 @@ The files and scripts in this repository are licensed under the MIT License, whi
 
 # Images
 
-![Alt text](screenshots/Screenshot-02_05_2020_02_00_19.png "Screenshot 1")
+![Alt text](screenshots/Screenshot-02_05_2020_02_00_19.png "Desktop 1")
 
-![Alt text](screenshots/Screenshot-02_05_2020_02_04_00.png "Screenshot 2")
+![Alt text](screenshots/Screenshot-02_05_2020_02_04_00.png "Desktop 2")
 
-![Alt text](screenshots/Screenshot-02_05_2020_02_06_14.png "Screenshot 3")
+![Alt text](screenshots/Screenshot-02_05_2020_02_06_14.png "Desktop 3")
