@@ -36,6 +36,7 @@ program[menu]		= rofi -show drun -font 'Terminus Bold 11'
 ```
 ~/.config/ranger/rc.conf
 ~/.config/zathura/zaathurarc
+~/.spectrwm.conf
 ~/.Xresources
 ~/.xinitrc
 ~/.conkyrc
