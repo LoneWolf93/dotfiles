@@ -35,7 +35,7 @@ program[menu]		= rofi -show drun -font 'Terminus Bold 11'
 # Config files path
 ```
 ~/.config/ranger/rc.conf
-~/.config/zathura/zaathurarc
+~/.config/zathura/zathurarc
 ~/.spectrwm.conf
 ~/.Xresources
 ~/.xinitrc
